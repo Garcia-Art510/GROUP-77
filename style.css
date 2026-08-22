@@ -23,7 +23,7 @@ body {
             rgba(0, 0, 0, 0.48),
             rgba(0, 0, 0, 0.60)
         ),
-        url("assets/Background\ GROUP\ 77.png");
+        url("./Background GROUP 77.png");
 
     background-size: cover;
     background-position: center;
